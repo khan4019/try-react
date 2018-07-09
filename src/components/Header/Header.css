@@ -1,0 +1,24 @@
+.header img{
+    height: 80px;
+}
+.header p{
+    text-align: left;
+    line-height: 40px;
+    background-color: black; 
+    margin-bottom: 0px;   
+}
+.header a {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding:10px;
+    color: white;
+    text-decoration: none;
+}
+
+.header a:hover{
+    background-color: lightgray;
+    line-height: 30px;
+}
+.header a:visited{
+    color: white;
+}
